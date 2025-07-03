@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Гелиевые шары в Ростове-на-Дону — SharoMania</title>
+    <meta name="description" content="Гелиевые и воздушные шары с круглосуточной доставкой по Ростову-на-Дону. Оформление праздников, фотозоны и композиции. Звоните: +7 999 690-05-06">
+    <meta name="keywords" content="гелиевые шары Ростов, воздушные шары, оформление шарами, шары на праздник, шарики на заказ Ростов-на-Дону">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff8fb; color: #333; }
+        header { background: #f06292; color: white; padding: 20px; text-align: center; }
+        nav { background: #f8bbd0; padding: 10px; text-align: center; }
+        nav a { color: #333; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        section { padding: 20px; }
+        footer { background: #f06292; color: white; text-align: center; padding: 10px; }
+        .btn { background: #f06292; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>SharoMania — Гелиевые шары в Ростове-на-Дону</h1>
+    <p>Круглосуточная доставка, оформление, фотозоны. Звоните: <strong>+7 999 690-05-06</strong></p>
+</header>
+
+<nav>
+    <a href="#about">О нас</a>
+    <a href="#services">Услуги</a>
+    <a href="#prices">Цены</a>
+    <a href="#reviews">Отзывы</a>
+    <a href="#contact">Контакты</a>
+</nav>
+
+<section id="about">
+    <h2>О нас</h2>
+    <p>SharoMania — это команда профессионалов по оформлению праздников. Работаем с 2020 года. Оформляем дни рождения, свадьбы, выпускные и другие события шарами и фотозонами.</p>
+</section>
+
+<section id="services">
+    <h2>Наши услуги</h2>
+    <ul>
+        <li>Гелиевые и воздушные шары</li>
+        <li>Оформление залов и фотозон</li>
+        <li>Шары с надписями</li>
+        <li>Композиции и наборы</li>
+        <li>Срочная доставка 24/7</li>
+    </ul>
+</section>
+
+<section id="prices">
+    <h2>Цены</h2>
+    <p>✔️ Шары от 100₽<br>
+    ✔️ Композиции от 799₽<br>
+    ✔️ Бесплатная доставка от 1000₽</p>
+    <a class="btn" href="tel:+79996900506">Позвонить</a>
+</section>
+
+<section id="reviews">
+    <h2>Отзывы</h2>
+    <p>«Спасибо за шары — всё доставили вовремя, держались 3 дня!» — Марина<br>
+       «Красивое оформление фотозоны, дети в восторге!» — Алексей</p>
+</section>
+
+<section id="contact">
+    <h2>Контакты</h2>
+    <p><strong>Адрес:</strong> г. Ростов-на-Дону, ул. Вяземцева, 42<br>
+       <strong>Телефон:</strong> <a href="tel:+79996900506">+7 999 690-05-06</a><br>
+       <strong>Работаем:</strong> круглосуточно</p>
+    <a class="btn" href="https://wa.me/79996900506">Написать в WhatsApp</a>
+</section>
+
+<footer>
+    <p>&copy; 2025 SharoMania | Воздушные шары в Ростове-на-Дону</p>
+</footer>
+
+</body>
+</html>
